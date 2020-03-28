@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-
+import { User } from 'src/app/user';
 declare var NgForm:any;
 @Component({
   selector: 'app-register',
